@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8a893b5-4e58-4cd1-ad43-462ba9e14e3f": {
+      "ProjectGuid": "d8a893b5-4e58-4cd1-ad43-462ba9e14e3f",
+      "DisplayName": "MyWorld",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
